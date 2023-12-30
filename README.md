@@ -28,3 +28,7 @@ Check the output in working directory.
 
 
 ![Screenshot 2023-12-30 205256](https://github.com/Arulrajgopal/SQL-DDL-Creator/assets/122370244/f05e9585-3e76-43c8-bf00-e830ebb6c386)
+
+Sample Input to Output
+
+![Screenshot 2023-12-30 205256](https://github.com/Arulrajgopal/SQL-DDL-Creator/assets/122370244/91100ce8-d7c5-499b-91c2-bb3916a06ce3)
