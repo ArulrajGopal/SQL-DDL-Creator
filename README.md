@@ -21,3 +21,10 @@ Cd C:\Users\Arulraj Gopal\OneDrive\Desktop\WorkingDirectory
 After that run the file,
 
 python SQL_Server_DDL_Creator.py SampleInput.TXT mytable , > created_output.txt
+
+![Screenshot 2023-12-30 205256](https://github.com/Arulrajgopal/SQL-DDL-Creator/assets/122370244/2e8f06e5-2937-4f2d-b43f-192667626a39)
+
+Check the output in working directory.
+
+
+![Screenshot 2023-12-30 205256](https://github.com/Arulrajgopal/SQL-DDL-Creator/assets/122370244/f05e9585-3e76-43c8-bf00-e830ebb6c386)
